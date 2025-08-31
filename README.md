@@ -6,8 +6,8 @@ Bot Discord sederhana yang dikembangkan dengan bahasa pemrograman Go untuk mengi
 
 ## Teknologi yang Digunakan
 
-- ![Go Logo](https://img.icons8.com/?size=512&id=44442&format=png) Go
-- ![Discord Logo](https://brandeps.com/logo-download/D/Discord-logo-01.png) Discord
+- ![Go Logo](https://www.svgrepo.com/show/355038/golang.svg) Go
+- ![Discord Logo](https://www.svgrepo.com/show/353655/discord-icon.svg) Discord
 
 ## Fitur
 
