@@ -2,12 +2,7 @@
 
 ![Mugi-DC Bot](https://i.ytimg.com/vi/x7wM7zx7onQ/maxresdefault.jpg)
 
-Bot Discord sederhana yang dikembangkan dengan bahasa pemrograman Go untuk mengirim pesan otomatis ke channel tertentu saat bot online.
-
-## Teknologi yang Digunakan
-
-- ![Go Logo](https://www.svgrepo.com/show/355038/golang.svg) Go
-- ![Discord Logo](https://www.svgrepo.com/show/353655/discord-icon.svg) Discord
+My kisah tuh Mugi.
 
 ## Fitur
 
