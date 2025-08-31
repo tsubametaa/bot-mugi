@@ -2,7 +2,7 @@
 
 ![Mugi-DC Bot](https://i.ytimg.com/vi/x7wM7zx7onQ/maxresdefault.jpg)
 
-My kisah tuh Mugi.
+My kisah tuh Mugi🥰😘😍😚🥵.
 
 ## Fitur
 
